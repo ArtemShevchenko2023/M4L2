@@ -4,7 +4,7 @@ body::-webkit-scrollbar {
   }
   
   body::-webkit-scrollbar-track {
-    background: #0F172A;        /* цвет зоны отслеживания */
+    background: #acffea;        /* цвет зоны отслеживания */
   }
   
   body::-webkit-scrollbar-thumb {
@@ -22,7 +22,7 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     line-height: 20px;
-    background-color: #0F172A;
+    background-color: #fffb00;
     color: #5200FC;
 }
 
@@ -183,7 +183,7 @@ ul {
 }
 
 .form__text {
-    background: #0F172A;
+    background: #0836a1;
     border-radius: 10px;
     padding: 10px;
     color: #00ffea;
@@ -194,7 +194,7 @@ ul {
 
 .form__button {
     border: 1px solid rgba(14, 165, 233, 1);
-    background: #0F172A;
+    background: #680e9c;
     border-radius: 10px;
     color: rgba(14, 165, 233, 1);
     padding: 10px;
@@ -239,7 +239,7 @@ ul {
 .main__link {
     display: block;
     border: 1px solid rgba(14, 165, 233, 1);
-    background: #0F172A;
+    background: #a80000;
     border-radius: 10px;
     color: rgba(14, 165, 233, 1);
     padding: 15px 10px;
